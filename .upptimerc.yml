@@ -18,4 +18,7 @@ status-website:
   name: Peaky Status
   themeUrl: https://status.peaky.ai/peaky-theme.css
 
+i18n:
+  footer: ''
+
 user-agent: GuusDeGraeve
