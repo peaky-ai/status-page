@@ -16,5 +16,6 @@ assignees:
 status-website:
   cname: status.peaky.ai
   name: Peaky Status
+  themeUrl: https://status.peaky.ai/peaky-theme.css
 
 user-agent: GuusDeGraeve
