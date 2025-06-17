@@ -22,7 +22,7 @@
   --submit-button-background-color: #D8FF2E;
   --submit-button-color: #191C1C;
   --graph-opacity: 1;
-  --graph-filter: brightness(0) saturate(100%) invert(39%) sepia(97%) saturate(443%) hue-rotate(207deg) brightness(87%) contrast(95%);
+  --graph-filter: brightness(0) saturate(100%) invert(92%) sepia(21%) saturate(3637%) hue-rotate(188deg) brightness(96%) contrast(111%);
 }
 
 article:before {
