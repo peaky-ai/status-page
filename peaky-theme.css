@@ -25,6 +25,23 @@
   --graph-filter: brightness(0) saturate(100%) invert(39%) sepia(97%) saturate(443%) hue-rotate(207deg) brightness(87%) contrast(95%);
 }
 
+article:before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: var(--background);
+  filter: var(--graph-filter);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center right;
+}
+
+article > * {
+  position: relative;
+}
+
 body {
   background-image: url(peaky-bg.png) !important;
   background-position: center center !important;
