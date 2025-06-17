@@ -1,0 +1,36 @@
+:root {
+  --body-background-color: #FBFAFF;
+  --body-text-color: #191C1C;
+  --nav-background-color: #FFFFFF;
+  --nav-border-bottom-color: #EFEBFF;
+  --nav-current-border-bottom-color: #D8FF2E;
+  --card-background-color: #FFFFFF;
+  --card-border-color: #E1E1E1;
+  --up-border-left-color: #78ED64;
+  --down-border-left-color: #FE2779;
+  --down-background-color: #FFC9DD;
+  --degraded-border-left-color: #F3886B;
+  --tag-color: #191C1C;
+  --tag-up-background-color: #78ED64;
+  --tag-down-background-color: #FE2779;
+  --tag-degraded-background-color: #F3886B;
+  --change-background-color: #F3886B;
+  --error-button-border-color: #1a46ad;
+  --error-button-background-color: #D4D9F7;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #D8FF2E;
+  --submit-button-background-color: #D8FF2E;
+  --submit-button-color: #191C1C;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+
+body {
+  background-image: url(peaky-bg.png) !important;
+  background-position: center center !important;
+  background-repeat: repeat !important;
+}
+
+nav {
+  height: 71px
+}
