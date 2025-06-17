@@ -9,7 +9,7 @@ sites:
     url: https://trust.peaky.ai
 
 assignees:
-  - GuusDeGraeve    
+  - GuusDeGraeve
 
 status-website:
   cname: status.peaky.ai
