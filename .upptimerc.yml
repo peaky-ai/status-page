@@ -16,8 +16,13 @@ assignees:
 status-website:
   cname: status.peaky.ai
   name: Peaky Status
+  logoUrl: https://status.peaky.ai/peaky-logo.svg
   themeUrl: https://status.peaky.ai/peaky-theme.css
-
+  favicon: https://status.peaky.ai/peaky-icon.ico
+  faviconSvg: https://status.peaky.ai/peaky-icon.svg
+  navbar:
+    - title: Go to Peaky
+      href: https://peaky.ai
 i18n:
   footer: ''
 
