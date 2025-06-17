@@ -48,6 +48,10 @@ body {
   background-repeat: repeat !important;
 }
 
+.logo img {
+  width: 100px;
+}
+
 nav {
   height: 71px
 }
