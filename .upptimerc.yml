@@ -12,3 +12,5 @@ assignees:
 status-website:
   cname: status.peaky.ai
   name: Peaky Status
+
+user-agent: GuusDeGraeve
