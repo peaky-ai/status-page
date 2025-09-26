@@ -4,18 +4,20 @@
     "url": "https://peaky.ai",
     "icon": "https://icons.duckduckgo.com/ip3/peaky.ai.ico",
     "slug": "peaky-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2352,
-    "timeDay": 1575,
-    "timeWeek": 1825,
-    "timeMonth": 2199,
-    "timeYear": 2352,
-    "dailyMinutesDown": {}
+    "time": 2358,
+    "timeDay": 2321,
+    "timeWeek": 1981,
+    "timeMonth": 2226,
+    "timeYear": 2358,
+    "dailyMinutesDown": {
+      "2025-09-26": 0
+    }
   },
   {
     "name": "Peaky Platform (EU)",
