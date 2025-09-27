@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/peaky.ai.ico",
     "slug": "peaky-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2358,
-    "timeDay": 2321,
-    "timeWeek": 1981,
-    "timeMonth": 2226,
-    "timeYear": 2358,
+    "uptime": "99.31%",
+    "uptimeDay": "29.69%",
+    "uptimeWeek": "89.96%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "99.31%",
+    "time": 2343,
+    "timeDay": 1878,
+    "timeWeek": 1953,
+    "timeMonth": 2205,
+    "timeYear": 2343,
     "dailyMinutesDown": {
-      "2025-09-26": 0
+      "2025-09-27": 13,
+      "2025-09-26": 999
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 971,
-    "timeWeek": 735,
-    "timeMonth": 819,
-    "timeYear": 807,
+    "time": 805,
+    "timeDay": 589,
+    "timeWeek": 698,
+    "timeMonth": 811,
+    "timeYear": 805,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 674,
-    "timeWeek": 799,
-    "timeMonth": 750,
-    "timeYear": 636,
+    "time": 634,
+    "timeDay": 427,
+    "timeWeek": 636,
+    "timeMonth": 631,
+    "timeYear": 634,
     "dailyMinutesDown": {}
   }
 ]
