@@ -8,7 +8,7 @@
     "uptime": "77.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.13%",
+    "uptimeMonth": "57.17%",
     "uptimeYear": "77.11%",
     "time": 2336,
     "timeDay": 3458,
@@ -77,19 +77,19 @@
     "url": "https://trust.peaky.ai",
     "icon": "https://icons.duckduckgo.com/ip3/trust.peaky.ai.ico",
     "slug": "peaky-trust-center",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 636,
-    "timeDay": 374,
-    "timeWeek": 736,
-    "timeMonth": 715,
+    "timeDay": 477,
+    "timeWeek": 730,
+    "timeMonth": 714,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 18
     }
   }
 ]
